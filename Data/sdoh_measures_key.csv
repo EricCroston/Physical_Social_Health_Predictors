@@ -1,0 +1,10 @@
+Measure_ID,Measure_Short_Name,Measure
+HCOST,Housing cost burden,Housing cost burden among households
+POV150,Poverty,Persons living below 150% of the poverty level
+CROWD,Crowding,Crowding among housing units
+AGE65,Aged 65 years or older,Persons aged 65 years or older
+SNGPNT,Single-parent households,Single-parent households
+BROAD,No broadband,No broadband internet subscription among households
+NOHSDP,No high school diploma,No high school diploma among adults aged 25 years or older
+UNEMP,Unemployment,Unemployment among people 16 years and older in the labor force
+REMNRTY,Racial or ethnic minority status,Persons of racial or ethnic minority status
