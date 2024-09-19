@@ -43,6 +43,8 @@ This project utilizes several datasets on social determinants of health (SDOH) a
 - **SDOH_Measures_for_County__ACS_2017_2021.csv**: Social determinants of health, including factors like education and poverty levels.
 - **sdoh_measures_key.csv**: Key file for linking data across datasets.
 - **food_access.csv**: Data on food access and availability, including the distance to food sources.
+- **heart_attack_analysis.csv**: Binary data for heart attack incidents, used to create the function. Kaggle source
+- **survey_lung_cancer.csv**: Binary data for lung cancer diagnosis and symptoms. Kaggle source
 
 ### SQL Input Files
 
