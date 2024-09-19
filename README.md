@@ -37,6 +37,13 @@ cd Physical_Social_Health_Predictors
 
 This project utilizes several datasets on social determinants of health (SDOH) and health outcomes. The key datasets include:
 
+PLACES: County Data 2023 release : United States, state and county level
+"This dataset contains model-based county-level estimates in GIS-friendly format. PLACES covers the entire United States—50 states and the District of Columbia—at county, place, census tract, and ZIP Code Tabulation Area levels. It provides information uniformly on this large scale for local areas at four geographic levels. Estimates were provided by the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. Project was funded by the Robert Wood Johnson Foundation in conjunction with the CDC Foundation. Data sources used to generate these model-based estimates are Behavioral Risk Factor Surveillance System (BRFSS) 2021 or 2020 data, Census Bureau 2021 or 2020 county population estimates, and American Community Survey (ACS) 2017–2021 or 2016–2020 estimates. The 2023 release uses 2021 BRFSS data for 29 measures and 2020 BRFSS data for 7 measures (all teeth lost, dental visits, mammograms, cervical cancer screening, colorectal cancer screening, core preventive services among older adults, and sleeping less than 7 hours) that the survey collects data on every other year. These data can be joined with the census 2020 county boundary file in a GIS system to produce maps for 36 measures at the county level. An ArcGIS Online feature service is also available for users to make maps online or to add data to desktop GIS software."
+https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2023-releas/7cmc-7y5g/about_data
+http://www.cdc.gov/nccdphp/dph/
+
+US Food Access www.kaggle.com/datasets
+
 ### Original Data Files
 
 - **PLACES__County_Data__GIS_Friendly_Format___2023_release_20240909.csv**: Health data, including various health outcomes for different counties.
