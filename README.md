@@ -7,6 +7,9 @@ The **Physical and Social Predictors of Health** project explores the relationsh
 
 ---
 
+![image](https://github.com/user-attachments/assets/20c50957-37c7-49c6-b523-0d68bc9b9666)
+
+
 ## Table of Contents
 
 1. [Installation](#installation)
@@ -28,14 +31,7 @@ git clone https://github.com/EricCroston/Physical_Social_Health_Predictors.git
 cd Physical_Social_Health_Predictors
 ```
 
-### Create a Virtual Environment with the necessary dependencies:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
----
+### Create a Virtual Environment with the necessary dependencies
 
 ## 2. Data
 
@@ -109,7 +105,6 @@ The primary machine learning model used in this project is a **neural network**,
 ### Multicollinearity Analysis
 
 - The **Variance Inflation Factor (VIF)** was used to detect multicollinearity in SDOH features.
-- Features with high VIF values were regularized in the machine learning models.
 
 ### Correlation Analysis
 
@@ -128,7 +123,31 @@ The primary machine learning model used in this project is a **neural network**,
 
 ### Visualizations
 
-- **VIF Bar Chart**: Displays multicollinearity in social determinant features.
-- **Correlation Matrices**: Shows the strongest and weakest correlations between SDOH and health outcomes.
+- **Correlation Bar Graphs**: Shows the strongest correlations between SDOH and health outcomes.
 - **Scatter Plots**: Highlights significant relationships between social factors and health outcomes.
+
+![image](https://github.com/user-attachments/assets/8f68b349-db22-4970-bd5b-25029539fd37)
+
+![image](https://github.com/user-attachments/assets/2824dcba-788d-4c79-8fa7-2fe9ae8394cb)
+
+- **VIF Bar Chart**: Displays multicollinearity in social determinant features.
+
+![image](https://github.com/user-attachments/assets/c96e7380-812e-45d5-ba9e-54451ea964c5)
+
+- **Optimization Chart**: Displays the performance of machine learning model using different Optimizers and Activation Fuctions
+
+![image](https://github.com/user-attachments/assets/3dbc0335-60ac-427b-bd53-15170a25d2da)
+
+
+- **Feature Importance**: Shows what SDOH features were most and least important in machine learning models used
+
+![image](https://github.com/user-attachments/assets/fe7c0ab3-c695-48af-b394-35b537508714)
+
+
+- **Tableau Story**: Diplays maps comparing SDOH and Health Outcomes and Interactive Visualization
+https://public.tableau.com/views/SDOH_17267735512090/SDOHFoodHealthOutcomes?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+![image](https://github.com/user-attachments/assets/9a50d2a9-ef20-4b20-b7de-34bf8aa091c2)
+
+![image](https://github.com/user-attachments/assets/16abff6f-1e88-4070-bfd6-068b28c4a051)
 
