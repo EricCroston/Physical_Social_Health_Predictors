@@ -44,6 +44,10 @@ http://www.cdc.gov/nccdphp/dph/
 
 US Food Access www.kaggle.com/datasets
 
+Lung Cancer Data: https://www.kaggle.com/datasets/nancyalaswad90/lung-cancer/data
+
+Heart Attack Data: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data
+
 ### Original Data Files
 
 - **PLACES__County_Data__GIS_Friendly_Format___2023_release_20240909.csv**: Health data, including various health outcomes for different counties.
