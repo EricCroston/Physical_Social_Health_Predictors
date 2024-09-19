@@ -42,11 +42,14 @@ PLACES: County Data 2023 release : United States, state and county level
 https://data.cdc.gov/500-Cities-Places/PLACES-County-Data-GIS-Friendly-Format-2023-releas/7cmc-7y5g/about_data
 http://www.cdc.gov/nccdphp/dph/
 
-US Food Access www.kaggle.com/datasets
+US Food Access https://www.kaggle.com/datasets/mexwell/us-food-access?select=food_access.csv
 
 Lung Cancer Data: https://www.kaggle.com/datasets/nancyalaswad90/lung-cancer/data
 
 Heart Attack Data: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data
+
+Social Determinants Of Health by County 2017-2021: 
+https://data.cdc.gov/500-Cities-Places/SDOH-Measures-for-County-ACS-2017-2021/i6u4-y3g4/about_data
 
 ### Original Data Files
 
