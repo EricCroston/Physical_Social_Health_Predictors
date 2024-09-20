@@ -48,6 +48,10 @@ Lung Cancer Data: https://www.kaggle.com/datasets/nancyalaswad90/lung-cancer/dat
 
 Heart Attack Data: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data
 
+![image](https://github.com/user-attachments/assets/bfc33312-afa3-40ed-a670-45b7d00ce2c7)
+
+Healthy People 2030, U.S. Department of Health and Human Services, Office of Disease Prevention and Health Promotion. Retrieved [date graphic was accessed], from https://health.gov/healthypeople/objectives-and-data/social-determinants-health
+
 Social Determinants Of Health by County 2017-2021: 
 https://data.cdc.gov/500-Cities-Places/SDOH-Measures-for-County-ACS-2017-2021/i6u4-y3g4/about_data
 
